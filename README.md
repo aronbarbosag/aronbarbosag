@@ -1,4 +1,5 @@
 ### I'm Aron 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aronbarbosag.aronbarbosag" />
+<img align="left" width="47%"  alt="stats-darkMode" src="https://github-readme-stats.vercel.app/api?username=aronbarbosag&show_icons=true&theme=dark#gh-dark-mode-only"/>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aronbarbosag&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/aronbarbosag/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=aronbarbosag&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/aronbarbosag/github-readme-stats#gh-light-mode-only)
+<img align="left" width="47%" alt="top-language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronbarbosag&layout=compact"/>
