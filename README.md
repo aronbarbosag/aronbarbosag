@@ -41,3 +41,12 @@
     <img src ="https://skillicons.dev/icons?i=bootstrap,mysql,sass,html,css,vscode,figma,git,webpack,babel"/>
   </a>  
 </div>
+<hr>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating " src="https://raw.githubusercontent.com/aronbarbosag/aronbarbosag/output/github-contribution-grid-snake.svg"/>
+  <br><br><br>
+</div>
+<hr>
+<h2 align="center">⚡ Stats ⚡</h2>
