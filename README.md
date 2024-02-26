@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=false&width=250&height=70&duration=3000&lines=Hi + There+ 👋!;I'm + Aron.;" alt="Typing SVG" /></a>
 </div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aronbarbosag.aronbarbosag&query_only=true" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aronbarbosag.aronbarbosag" />
 <h3 align="center">A passionate software developer from Brazil </h3>
 <br>
 <div align="center">
