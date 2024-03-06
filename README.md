@@ -2,19 +2,19 @@
 
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=false&width=250&height=70&duration=3000&lines=Hi + There+ 👋!;I'm + Aron.;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=false&width=250&height=70&duration=3000&lines=Bem + Vindo +  👋!;Meu + nome + é + Aron.;" alt="Typing SVG" /></a>
 </div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aronbarbosag.aronbarbosag" />
-<h3 align="center">A passionate software developer from Brazil </h3>
+<h3 align="center">Estudante de Sistemas de Informação 2° período. </h3>
 <br>
 <div align="center">
-  🔭 I’m currently studying new features
+  🔭 Estou constantemente estudando novas tecnologias.
 
-  🌱 I’m currently learning Python, SQL, AWS
+  🌱 Atualmente aprendendo  Python e SQL.
 
-  💬 Ask me about Python, JavaScript, C... or anything [here](https://github.com/aronbarbosag/aronbarbosag/issues)**
+  💬 Pergunte-me sobre  Python, JavaScript, C... ou qualquer coisa [aqui](https://github.com/aronbarbosag/aronbarbosag/issues)**
 
-  ⚡ Fun fact Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.
+  ⚡ Curiosidade, o mel nunca estraga. Arqueologistas encontraram potes de mel em tumbas ancestrais que possuem mais de 3 mil anos  e ainda continua perfeitamente comestivel.
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@
 </div>
 <br/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
@@ -43,14 +43,14 @@
 </div>
 <hr>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
   <img alt="snake eating " src="https://raw.githubusercontent.com/aronbarbosag/aronbarbosag/output/github-contribution-grid-snake.svg"/>
   <br><br><br>
  
 </div>
 <hr>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Status ⚡</h2>
 <br>
 <br>
 <div align=center>
