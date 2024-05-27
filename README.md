@@ -54,7 +54,7 @@
 <br>
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronbarbosag&layout=compact&size_weight=0.5&count_weight=0.5"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronbarbosag&theme=dracula"/>
  
 </div>
 
