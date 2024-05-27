@@ -64,8 +64,6 @@
 
 <br/>
 
-<div align="center">
-<a href='https://www.instagram.com/aron.barbosa13/' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='buy me a coffee at ko-fi.com' /></a>
-</div>
+
 
 <br/>
