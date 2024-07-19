@@ -5,16 +5,15 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=false&width=250&height=70&duration=3000&lines=Bem + Vindo(a) +  👋!" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center">Estudante de Sistemas de Informação 2° período. </h3>
+<h3 align="center">Estudante de Sistemas de Informação 3° período. </h3>
 <br>
 <div align="center">
-  🔭 Estou constantemente estudando novas tecnologias.
 
-  🌱 Atualmente aprendendo  Python e SQL.
+  🌱 Atualmente estudando backend com Flask 
 
-  💬 Pergunte-me sobre  Python, JavaScript, C... ou qualquer coisa [aqui](https://github.com/aronbarbosag/aronbarbosag/issues)**
+  💻 Futuro Cientista de Dados
 
-  ⚡ Curiosidade, o mel nunca estraga. Arqueologistas encontraram potes de mel em tumbas ancestrais que possuem mais de 3 mil anos  e ainda continua perfeitamente comestivel.
+  ❤️ Python 
 </div>
 
 <div align="center">
@@ -37,7 +36,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c"/><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,flask"/><br>
     <img src ="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,html,css,figma,git"/>
   </a>  
 </div>
