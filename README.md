@@ -9,7 +9,7 @@
 <br>
 <div align="center">
 
-  🌱 Atualmente estudando backend com Flask 
+  🌱 Atualmente estudando Django 
 
   💻 Futuro Cientista de Dados
 
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,flask"/><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,django"/><br>
     <img src ="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,html,css,figma,git"/>
   </a>  
 </div>
