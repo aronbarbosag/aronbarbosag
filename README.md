@@ -13,7 +13,7 @@
 
   💻 Futuro Cientista de Dados
 
-  ❤️ Python 
+  ❤️ JavaScript e Python 
 </div>
 
 <div align="center">
