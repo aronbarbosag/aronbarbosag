@@ -11,7 +11,7 @@
 
   🌱 Atualmente estudando Django 
 
-  💻 Futuro Cientista de Dados
+  💻 Foco em desenvolvimento e BI
 
   ❤️ JavaScript e Python 
 </div>
