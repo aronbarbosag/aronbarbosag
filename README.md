@@ -9,7 +9,7 @@
 <br>
 <div align="center">
 
-  🌱 Atualmente estudando Django 
+  🌱 Atualmente estudando Django, React e Node
 
   💻 Foco em desenvolvimento e BI
 
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,django"/><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,react,django"/><br>
     <img src ="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,html,css,figma,git"/>
   </a>  
 </div>
