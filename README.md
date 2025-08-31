@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src='batman.png' width="600" alt="batman reading a ti book" />
+<img src='homelander.png' width="650" alt="homelander" />
 </p>
 
 ### 💻 Tech Stack Highlights
