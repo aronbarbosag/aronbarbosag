@@ -1,7 +1,7 @@
 <h1 align="center">💻 Coding Without Slip-Ups</h1>
 
 <p align="center">
- <img src="homelander_coding.gif" width="500px" alt="homelander coding in pixel art" /> 
+ <img src="homelander_coding.gif" width="400px" alt="homelander coding in pixel art" /> 
 </p>
 
 <p align="center">
