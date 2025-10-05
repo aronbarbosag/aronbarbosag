@@ -1,1 +1,1 @@
-<h2> Hi, Welcome ! <img src='running-inosuke-hashibara.gif' width=50> </h2>
+<h2> Hi, Welcome ! <img src='cat-pixel-art.gif' width=50> </h2>
